@@ -1,4 +1,12 @@
-
+<channels>
+<channel>
+<name>Series Novas</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/series.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
 
 <channels>
 <channel>
