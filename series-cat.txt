@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>Series Novas</name>
+<name>[COLOR white][B]SERVIDOR 1[/B][/COLOR][COLOR cyan][B] ||| CINE+ [/B][/COLOR][COLOR pink][B] Séries |||[/B][/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/series.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<name>Series Novas</name>
+<name>[COLOR white][B]SERVIDOR 2[/B][/COLOR][COLOR cyan][B] ||| Series [/B][/COLOR][COLOR pink][B] Novas |||[/B][/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/serie3</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
@@ -20,7 +20,7 @@
 
 <channels>
 <channel>
-<name>Series 01</name>
+<name>[COLOR white][B]SERVIDOR 3[/B][/COLOR][COLOR cyan][B] ||| kodishmediacenter [/B][/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/serie-01</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
