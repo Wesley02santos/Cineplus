@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://static.tudoradio.com/ins/w:120/plain/https://tudoradio.com/img/uploads/radios/5d6fcf234782a.png" group-title="CANAIS ABERTOS" pltv-subgroup="RADIOS", Clube Cidade FM - Malacacheta
+http://server03.stmsg.com.br:13454//;stream.mp3
