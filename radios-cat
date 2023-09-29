@@ -1,0 +1,29 @@
+<channels>
+ <channel>
+ <name>[COLOR white][B]SERVIDOR 1[/B][/COLOR][COLOR cyan][B] ||| Cine[/B][/COLOR][COLOR pink][B]+|||[/B][/COLOR]</name>
+ <thumbnail>https://thumbs.dreamstime.com/b/logotipo-de-r%C3%A1dio-%C3%ADcone-vetor-simples-124841155.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/radios-br</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
+<channels>
+ <channel>
+ <name>[COLOR white][B]SERVIDOR 2[/B][/COLOR][COLOR cyan][B] ||| Lista Radios Brasileiras [/B][/COLOR]</name>
+ <thumbnail>https://thumbs.dreamstime.com/b/logotipo-de-r%C3%A1dio-%C3%ADcone-vetor-simples-124841155.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/radios-br</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR white][B]SERVIDOR 3[/B][/COLOR] [COLOR cyan][B] ||| Vagalume [/B][/COLOR][COLOR pink][B]FM |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/vagalume.xml</externallink>
+<thumbnail>https://play-lh.googleusercontent.com/oli9ixdieLia03jDIdS-R_fsTME9GgCYEuDst7mJD9-WI3BvG5VnrpTVw_clmrRQSA</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
