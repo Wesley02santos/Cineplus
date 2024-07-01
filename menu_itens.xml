@@ -12,7 +12,7 @@
 	
     <item>
         <title>ANIME</title>
-        <link>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/series-cat.txt</link>
+        <link>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/IPTV.xml</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Animation</genre>
         <info>Anime teste</info>
