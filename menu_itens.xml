@@ -1,64 +1,77 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>
-    <items_info> <!-- this is opitonal -->
-      <title>Atualizações</title> <!-- a title is required, other elements are optional -->
-      <genre>Atualização</genre>
+
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>Atualizações</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Novidades</genre>
       <description>Cine Plus Atualizado</description>
       <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
       <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
       <date>30.06.2024</date>
       <credits>Wesley Santos</credits>
-    </items_info>
-	
-    <item>
-        <title>[COLOR white][B]TV ONLINE[/B][/COLOR]</title>
-        <link>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/IPTV</link>
-        <thumbnail>https://lh3.googleusercontent.com/ojKhpv8pB60vLQbgPkbf5Bu6AnWQ6IHT187A8tMPQXHN3-TuXX6FDZL4LmTky-WWNIg=w300</thumbnail>
-        <genre>Canais ao vivo</genre>
-        <info>Lista de Canais de TV ao Vivo</info>
-        <date>30.06.2024</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-        <fanart>https://www.oficinadanet.com.br/imagens/post/45447/2023-iptv-02.jpg</fanart>
-		    </item>
-	<item>
-        <title>[COLOR white][B]Listas de Radios[/B][/COLOR]</title>
-        <link>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/radios-cat</link>
-        <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/icon-news/5.png</thumbnail>
-        <genre>Rádio</genre>
-        <info>Lista de Canais de Rádio</info>
-        <date>30.06.2024</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-        <fanart>https://img.olhardigital.com.br/wp-content/uploads/2021/08/Radio.jpg</fanart>
-		    </item>
-	<item>
-        <title>[COLOR white][B]Filmes[/B][/COLOR]</title>
-        <link>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/Filmes/categoria-filmes</link>
-        <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-        <genre>Filmes</genre>
-        <info>Lista de Filmes</info>
-        <date>30.06.2024</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-        <fanart>https://viciados.net/wp-content/uploads/2019/09/fala-universidades-netflix-3.jpg</fanart>
-		    </item>
-	<item>
-        <title>[COLOR white][B]Series[/B][/COLOR]</title>
-        <link>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/series-cat.txt</link>
-        <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-        <genre>Séries</genre>
-        <info>Lista de Séries</info>
-        <date>30.06.2024</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-        <fanart>https://difusoraon.com/wp-content/uploads/2021/12/Netflix.jpg</fanart>
-		    </item>
-	<item>
-        <title>ANIME</title>
-        <link>$doregex[resolver]</link>
-        <thumbnail>http://channel.png</thumbnail>
-        <genre>Animation</genre>
-        <info>Anime teste</info>
-        <date>08.02.2022</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+    </channels_info>
+    
+    <channel>
+    <name>News</name>
+    <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+    <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+        <items>
+            <item>
+                <title>POKER CHANNEL</title>
+                <link>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/IPTV</link>
+                <thumbnail>http://channel.png</thumbnail>
+                <genre>Poker</genre>
+                <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
+                <date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
+                <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+                <fanart>http://fanart.jpg</fanart>
+            </item>
+            
+            <item>
+                <title>News 4</title>         
+                <link>rtmp://some/place playpath=some_place swfUrl="http://player.swf pageUrl=http://nhkworld/r/movie/ swfVfy=true live=true</link>
+                <thumbnail>C:\my_thumbs\news.png</thumbnail>
+            </item>
+        </items>
+    </channel>
+
+    <channel>
+    <name>Television</name>
+    <thumbnail>http://television.png</thumbnail>
+    <fanart>http://fanart.jpg</fanart>
+    <subchannel>
+        <name>Tv 1</name>
+        <thumbnail>http://television.png</thumbnail>
         <fanart>http://fanart.jpg</fanart>
-		    </item>	
-	
-</items>
+            <subitems>
+                <subitem>
+                <title>tv1-1</title>
+                <link>mms://some/place</link>
+                <thumbnail>http://thumb.png </thumbnail>
+                </subitem>
+
+                <subitem>
+                <title>tv1-2</title>
+                <link>http://some/place/channel_4.mp4</link>
+                <thumbnail>http://thumb.png</thumbnail>
+                </subitem>
+            </subitems>	
+        </channel>
+    </subchannel>
+    
+    <items>
+        <item>
+        <title>FILM 4</title>
+        <link>mms://some/place</link>
+        <thumbnail>http://thumb.png </thumbnail>
+        </item>
+
+        <item>
+        <title>CHANNEL 4</title>
+        <link>http://some/place/channel_4.mp4</link>
+        <thumbnail>http://thumb.png</thumbnail>
+        </item>
+    </items>	
+    </channel>
+
+</channels>	
