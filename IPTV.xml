@@ -1,0 +1,84 @@
+<channels>
+ <channel>
+ <name>[COLOR white][B]SERVIDOR 1[/B][/COLOR][COLOR cyan][B] ||| CINE [/B][/COLOR][COLOR pink][B]+ |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Canais.txt</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
+ </channel>
+ </channels>
+<channels>
+ <channel>
+ <name>[COLOR white][B]SERVIDOR 2[/B][/COLOR][COLOR cyan][B] ||| CINE [/B][/COLOR][COLOR pink][B]+ |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/thumbnail_kodish.png</thumbnail>
+ <externallink>http://vivo.10initiatived.uk:8880/get.php?username=2879940189c4&password=2879940189C4&type=m3u_plus</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+<channels>
+ <channel>
+ <name>[COLOR white][B]SERVIDOR 3[/B][/COLOR][COLOR cyan][B] ||| CINE [/B][/COLOR][COLOR pink][B]+ |||[/B][/COLOR]</name>
+ <thumbnail>https://t2.tudocdn.net/601004</thumbnail>
+ <externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br.m3u</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv créditos iptv-org</info>
+ </channel>
+ </channels>
+<channels>
+ <channel>
+ <name>[COLOR white][B]SERVIDOR 4[/B][/COLOR][COLOR cyan][B] |||Runtime [/B][/COLOR][COLOR pink][B]TV |||[/B][/COLOR]</name>
+ <thumbnail>https://m.media-amazon.com/images/I/51xeNXguMqL.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/runtime.m3u</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+ 
+<channels>
+ <channel>
+ <name>[COLOR white][B]SERVIDOR 5[/B][/COLOR][COLOR cyan][B] |||Pluto [/B][/COLOR][COLOR pink][B]TV |||[/B][/COLOR]</name>
+ <thumbnail>https://t2.tudocdn.net/601004</thumbnail>
+ <externallink>http://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/plutao.m3u</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+ <channels>
+ <channel>
+ <name>[COLOR white][B]SERVIDOR 6[/B][/COLOR][COLOR cyan][B] |||Pluto [/B][/COLOR][COLOR pink][B]TV |||[/B][/COLOR]</name>
+ <thumbnail>https://t2.tudocdn.net/601004</thumbnail>
+ <externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_pluto.m3u</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv créditos iptv-org</info>
+ </channel>
+ </channels>
+<channels>
+ <channel>
+ <name>[COLOR white][B]SERVIDOR 7[/B][/COLOR][COLOR cyan][B] ||| Cine Sky [/B][/COLOR][COLOR pink][B]Fandon |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/thumbnail_kodish.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/cine</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+ 
+ <channels>
+ <channel>
+ <name>[COLOR white][B]SERVIDOR 8[/B][/COLOR][COLOR cyan][B] ||| Samsung [/B][/COLOR][COLOR pink][B]TV |||[/B][/COLOR]</name>
+ <thumbnail>https://i.imgur.com/Hal4HMF.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_samsung.m3u</externallink>
+ <fanart>https://i.imgur.com/Hal4HMF.jpg</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+<channels>
+ <channel>
+ <name>[COLOR white][B]SERVIDOR 9[/B][/COLOR][COLOR cyan][B] ||| Rede [/B][/COLOR][COLOR pink][B]Canais |||[/B][/COLOR]</name>
+ <thumbnail>https://i.imgur.com/Hal4HMF.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/redecanais</externallink>
+ <fanart>https://i.imgur.com/Hal4HMF.jpg</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+ 
