@@ -12,7 +12,7 @@
 	
     <item>
         <title>TV ONLINE</title>
-        <externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/IPTV.xml</externallink>
+        <link>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/IPTV.xml</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Animation</genre>
         <info>Anime teste</info>
