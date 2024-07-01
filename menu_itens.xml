@@ -20,6 +20,17 @@
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
         <fanart>http://fanart.jpg</fanart>
 	
+    </item>
+	<item>
+        <title>ANIME 2</title>
+        <externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/IPTV.xml</externallink>
+        <thumbnail>http://channel.png</thumbnail>
+        <genre>Animation</genre>
+        <info>Anime teste</info>
+        <date>08.02.2022</date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+        <fanart>http://fanart.jpg</fanart>
+	
     </item>	
 	
 </items>
