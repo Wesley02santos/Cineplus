@@ -22,11 +22,24 @@
     </channel>
 	
 	<channel>
-        <name>CANAIS FARRUK</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-		<info>Canais do farruk</info>
-		<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/IPTV</externallink>
-    </channel>
-
+ <name>[COLOR white][B]Listas de Radios[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/icon-news/5.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/radios-cat</externallink>
+ <fanart>https://img.olhardigital.com.br/wp-content/uploads/2021/08/Radio.jpg</fanart>
+ <info>Listas iptv</info>
+ </channel>
+<channel>
+<name>[COLOR white][B]Filmes[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/Filmes/categoria-filmes</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
+<fanart>https://viciados.net/wp-content/uploads/2019/09/fala-universidades-netflix-3.jpg</fanart>
+<info></info>
+</channel>
+<channel>
+<name>[COLOR white][B]Series[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/series-cat.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
+<fanart>https://difusoraon.com/wp-content/uploads/2021/12/Netflix.jpg</fanart>
+<info></info>
+</channel>
 </channels>	
