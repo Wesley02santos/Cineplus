@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
-	<!-- opicional -->
-    <channels_info> <!-- this is opitonal -->
-      <title>Atuaizações</title> <!-- if channels_info, a title is required, other elements are optional -->
-      <genre>Novidades</genre>
-      <description>Cine Plus atualizado!</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>02.07.2024</date>
-      <credits>Wesley Santos</credits>
-    </channels_info>
-	<!-- opicional -->
-    
+	 
     <channel>
         <name>[COLOR white][B]TV Online[/B][/COLOR]</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+        <thumbnail>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/imagens/canais.png</thumbnail>
+        <fanart>https://sucessosa.com.br/uploads/imagens/pacotes-sky-mais-indicados.jpg</fanart>
 		<info>IPTV</info>
 		<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/IPTV.xml</externallink>
     </channel>
