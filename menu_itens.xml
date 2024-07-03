@@ -41,4 +41,11 @@
 <fanart>https://difusoraon.com/wp-content/uploads/2021/12/Netflix.jpg</fanart>
 <info></info>
 </channel>
+<channel>
+<name>[COLOR white][B]Youtube[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/zoreu/meuaddon/master/Exemplo-Menu/item/Youtube/youtube.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
+<fanart>https://difusoraon.com/wp-content/uploads/2021/12/Netflix.jpg</fanart>
+<info></info>
+</channel>
 </channels>	
