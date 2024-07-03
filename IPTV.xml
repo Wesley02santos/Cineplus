@@ -8,7 +8,7 @@
  <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
  </channel>
  <channel>
- <name>[COLOR white][B]SERVIDOR 2[/B][/COLOR][COLOR cyan][B] ||| CINE [/B][/COLOR][COLOR pink][B]+ |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SERVIDOR 2[/B][/COLOR][COLOR cyan][B] ||| BR [/B][/COLOR]</name>
  <thumbnail>https://t2.tudocdn.net/601004</thumbnail>
  <externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br.m3u</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
