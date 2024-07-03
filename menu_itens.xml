@@ -29,7 +29,7 @@
  </channel>
 <channel>
 <name>[COLOR white][B]Filmes[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/zoreu/meuaddon/master/Exemplo-Menu/item/Movies/movies.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Filmes.xml</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
 <fanart>https://viciados.net/wp-content/uploads/2019/09/fala-universidades-netflix-3.jpg</fanart>
 <info></info>
