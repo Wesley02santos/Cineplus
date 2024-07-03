@@ -23,7 +23,7 @@
     
 	<item>
         <title>NHK - World</title>         
-        <link title="opção 1">rtmp://some/place playpath=nhkworldhd swfUrl="http://player.0.3.6.2.swf" pageUrl="http://nhkworld/r/movie/" swfVfy=true live=true</link>
+        <link><title>Opção 1</title>rtmp://some/place playpath=nhkworldhd swfUrl="http://player.0.3.6.2.swf" pageUrl="http://nhkworld/r/movie/" swfVfy=true live=true</link>
 	<link title="opção 2">rtmp://some/place playpath=nhkworldhd swfUrl="http://player.0.3.6.2.swf" pageUrl="http://nhkworld/r/movie/" swfVfy=true live=true</link>
 	<link title='opção 3'>https://</link>
         <thumbnail>http://header_logo.gif</thumbnail>
