@@ -10,17 +10,6 @@
       <credits>divingmule, Johnny Cache</credits>
     </items_info>
 
-    <item>
-        <title>Mortal Kombat</title>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B692B06FB982439C68AAB244EE19A862A19BBFBE&dn=Mortal.Kombat.2021.720p.CAMRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce</link>
-        <thumbnail>https://thepiratefilmeshd.com.br/wp-content/uploads/2021/04/baixar-filmes-thepiratefilmeshd.com_.br_-5-683x1024.jpg</thumbnail>
-        <genre>Ação</genre>
-        <info>Acostumado a combater por dinheiro, o lutador de MMA Cole Young não faz ideia de qual é a sua herança – ou porque é o Emperador Shang Tsung enviou o seu melhor lutador, Sub-Zero, para o apanhar. Receando pela segurança da sua família, Cole segue as indicações do major Jax, que também exibe a marca de dragão com que Cole nasceu, e procura Sonya Blade. Rapidamente chega ao templo do Lord Raiden, Deus de Elder e protetor do Earthrealm, um santuário para os que carregam a marca. Aqui, Cole treina com os experientes guerreiros Liu Kang, Kung Lao e com o mercenário Kano, enquanto se prepara para enfrentar os inimigos do Outworld numa batalha de alto risco. Mas será a pressão a que Cole é submetido suficiente ao ponto de libertar o superpoder que está dentro da sua alma a tempo não só de salvar a sua família, mas também de parar o Outworld de uma vez por todas?</info>
-        <date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-        <fanart>https://cinepop.com.br/wp-content/uploads/2021/04/mortalkombat_10.jpeg</fanart>
-    </item>
-    
 	<item>
         <title>ASSALTO AO BANCO DA ESPANHA</title>         
         <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1At6v2z211f_M-soRk-di_3oYE6ILHs5f/view?usp=sharinge</link>,
