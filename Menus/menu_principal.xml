@@ -30,6 +30,27 @@
 <fanart>https://difusoraon.com/wp-content/uploads/2021/12/Netflix.jpg</fanart>
 <info></info>
 </channel>
+	<channel>
+<name>[COLOR white][B]Novelas[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/items_example.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/imagens/novelas.png</thumbnail>
+<fanart>https://difusoraon.com/wp-content/uploads/2021/12/Netflix.jpg</fanart>
+<info></info>
+</channel>
+	<channel>
+<name>[COLOR white][B]Animes[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/items_example.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/imagens/animes.png</thumbnail>
+<fanart>https://difusoraon.com/wp-content/uploads/2021/12/Netflix.jpg</fanart>
+<info></info>
+</channel>
+	<channel>
+<name>[COLOR white][B]Desenhos[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/items_example.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/imagens/desenhos.png</thumbnail>
+<fanart>https://difusoraon.com/wp-content/uploads/2021/12/Netflix.jpg</fanart>
+<info></info>
+</channel>
 <channel>
 <name>[COLOR white][B]Youtube[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/items_example.xml</externallink>
