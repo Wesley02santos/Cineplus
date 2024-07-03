@@ -3,7 +3,7 @@
 	 
     <channel>
         <name>[COLOR white][B]TV Online[/B][/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/imagens/canais.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/imagens/canais2.png</thumbnail>
         <fanart>https://sucessosa.com.br/uploads/imagens/pacotes-sky-mais-indicados.jpg</fanart>
 		<info>IPTV</info>
 		<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/IPTV.xml</externallink>
@@ -11,7 +11,7 @@
 	
 	<channel>
  <name>[COLOR white][B]Listas de Radios[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/icon-news/5.png</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/imagens/radios.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/radios-cat</externallink>
  <fanart>https://img.olhardigital.com.br/wp-content/uploads/2021/08/Radio.jpg</fanart>
  <info>Listas iptv</info>
