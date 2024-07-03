@@ -25,7 +25,7 @@
         <title>NHK - World</title>         
         <link>rtmp://some/place playpath=nhkworldhd swfUrl="http://player.0.3.6.2.swf" pageUrl="http://nhkworld/r/movie/" swfVfy=true live=true</link>
 	<link>rtmp://some/place playpath=nhkworldhd swfUrl="http://player.0.3.6.2.swf" pageUrl="http://nhkworld/r/movie/" swfVfy=true live=true</link>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4BD7056F5E32FC76C77B18EFBE332CDED1E562A&dn=Inside.Out.2.2024.720p.CAMRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</link>
+	<link> Opção1 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4BD7056F5E32FC76C77B18EFBE332CDED1E562A&dn=Inside.Out.2.2024.720p.CAMRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</link>
         <thumbnail>http://header_logo.gif</thumbnail>
     </item>
 	
