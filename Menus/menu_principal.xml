@@ -32,30 +32,30 @@
 </channel>
 	<channel>
 <name>[COLOR white][B]Novelas[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/items_example.xml</externallink>
+<externallink>https://</externallink>
 <thumbnail>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/imagens/novelas.png</thumbnail>
 <fanart>https://difusoraon.com/wp-content/uploads/2021/12/Netflix.jpg</fanart>
-<info></info>
+<info>Em Manutenção</info>
 </channel>
 	<channel>
 <name>[COLOR white][B]Animes[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/items_example.xml</externallink>
-<thumbnail>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/imagens/animes.png</thumbnail>
+<externallink>https://</externallink>
+<thumbnail>https://preview.redd.it/ewcozcahkwk61.png?width=1080&crop=smart&auto=webp&s=56ed427b91cc72218349fc6b9b349cbf4555dc92</thumbnail>
 <fanart>https://difusoraon.com/wp-content/uploads/2021/12/Netflix.jpg</fanart>
-<info></info>
+<info>Em Manutenção</info>
 </channel>
 	<channel>
 <name>[COLOR white][B]Desenhos[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/items_example.xml</externallink>
+<externallink>https://</externallink>
 <thumbnail>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/imagens/desenhos.png</thumbnail>
 <fanart>https://difusoraon.com/wp-content/uploads/2021/12/Netflix.jpg</fanart>
-<info></info>
+<info>Em Manutenção</info>
 </channel>
 <channel>
 <name>[COLOR white][B]Youtube[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/items_example.xml</externallink>
 <thumbnail>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/imagens/youtube.png</thumbnail>
 <fanart>https://difusoraon.com/wp-content/uploads/2021/12/Netflix.jpg</fanart>
-<info></info>
+<info>Em Manutenção</info>
 </channel>
 </channels>	
