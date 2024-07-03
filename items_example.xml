@@ -31,5 +31,5 @@
         <title>BBC World</title>         
         <link>rtmp://some/place playpath=bbcworld1_en_high.sdp swfUrl="http://some/place/player.swf" pageUrl="http://some/place/10-bbc-world-news-english" swfVfy=true live=true</link>
         <thumbnail>http://some/place.jpg</thumbnail>
-	
+	</item>
 </items>
