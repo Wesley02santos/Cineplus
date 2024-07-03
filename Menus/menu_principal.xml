@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+	 
+    <channel>
+        <name>[COLOR white][B]TV Online[/B][/COLOR]</name>
+        <thumbnail>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/imagens/canais.png</thumbnail>
+        <fanart>https://sucessosa.com.br/uploads/imagens/pacotes-sky-mais-indicados.jpg</fanart>
+		<info>IPTV</info>
+		<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/IPTV.xml</externallink>
+    </channel>
+	
+	<channel>
+ <name>[COLOR white][B]Listas de Radios[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/icon-news/5.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/radios-cat</externallink>
+ <fanart>https://img.olhardigital.com.br/wp-content/uploads/2021/08/Radio.jpg</fanart>
+ <info>Listas iptv</info>
+ </channel>
+<channel>
+<name>[COLOR white][B]Filmes[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Filmes.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/filmes.png</thumbnail>
+<fanart>https://viciados.net/wp-content/uploads/2019/09/fala-universidades-netflix-3.jpg</fanart>
+<info></info>
+</channel>
+<channel>
+<name>[COLOR white][B]Series[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/series-cat.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/imagens/series.png</thumbnail>
+<fanart>https://difusoraon.com/wp-content/uploads/2021/12/Netflix.jpg</fanart>
+<info></info>
+</channel>
+<channel>
+<name>[COLOR white][B]Youtube[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/items_example.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
+<fanart>https://difusoraon.com/wp-content/uploads/2021/12/Netflix.jpg</fanart>
+<info></info>
+</channel>
+</channels>	
