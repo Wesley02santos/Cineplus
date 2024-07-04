@@ -1,42 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
  <channel>
- <name>[COLOR white][B]SERVIDOR 1[/B][/COLOR][COLOR cyan][B] ||| FORMIGA [/B][/COLOR][COLOR YELLOW][B]TV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SERVIDOR 1[/B][/COLOR][COLOR cyan][B] ||| FORMIGA [/B][/COLOR][COLOR yellow][B]TV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
  <externallink>http://tinyurl.com/PVRFORMIGAtv</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
  <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
  </channel>
  <channel>
- <name>[COLOR white][B]SERVIDOR 2[/B][/COLOR][COLOR cyan][B] ||| CINE [/B][/COLOR][COLOR pink][B]+ |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SERVIDOR 2[/B][/COLOR][COLOR cyan][B] ||| FORMIGA [/B][/COLOR][COLOR yellow][B]TV |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
+ <externallink>http://tinyurl.com/PVRFORMIGAtv</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
+ </channel>
+ <channel>
+ <name>[COLOR white][B]SERVIDOR 3[/B][/COLOR][COLOR cyan][B] ||| CINE [/B][/COLOR][COLOR pink][B]+ |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Canais.txt</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
  <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
  </channel>
  <channel>
- <name>[COLOR white][B]SERVIDOR 3[/B][/COLOR][COLOR cyan][B] ||| BR [/B][/COLOR]</name>
+ <name>[COLOR white][B]SERVIDOR 4[/B][/COLOR][COLOR cyan][B] ||| BR [/B][/COLOR]</name>
  <thumbnail>https://t2.tudocdn.net/601004</thumbnail>
  <externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br.m3u</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv créditos iptv-org</info>
  </channel>
  <channel>
- <name>[COLOR white][B]SERVIDOR 4[/B][/COLOR][COLOR cyan][B] |||Pluto [/B][/COLOR][COLOR pink][B]TV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SERVIDOR 5[/B][/COLOR][COLOR cyan][B] |||Pluto [/B][/COLOR][COLOR pink][B]TV |||[/B][/COLOR]</name>
  <thumbnail>https://t2.tudocdn.net/601004</thumbnail>
  <externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_pluto.m3u</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv créditos iptv-org</info>
  </channel>
  <channel>
- <name>[COLOR white][B]SERVIDOR 5[/B][/COLOR][COLOR cyan][B] ||| Samsung [/B][/COLOR][COLOR pink][B]TV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SERVIDOR 6[/B][/COLOR][COLOR cyan][B] ||| Samsung [/B][/COLOR][COLOR pink][B]TV |||[/B][/COLOR]</name>
  <thumbnail>https://i.imgur.com/Hal4HMF.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br_samsung.m3u</externallink>
  <fanart>https://i.imgur.com/Hal4HMF.jpg</fanart>
  <info>Listas iptv</info>
  </channel>
  <channel>
- <name>[COLOR white][B]SERVIDOR 6[/B][/COLOR][COLOR cyan][B] ||| Rede [/B][/COLOR][COLOR pink][B]Canais |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SERVIDOR 7[/B][/COLOR][COLOR cyan][B] ||| Rede [/B][/COLOR][COLOR pink][B]Canais |||[/B][/COLOR]</name>
  <thumbnail>https://i.imgur.com/Hal4HMF.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/redecanais</externallink>
  <fanart>https://i.imgur.com/Hal4HMF.jpg</fanart>
