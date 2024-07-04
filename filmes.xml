@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-    <items_info> <!-- this is opitonal -->
-      <title>Testing XML</title> <!-- a title is required, other elements are optional -->
-      <genre>News</genre>
-      <description>this is the descripton string</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>04.01.2013</date>
-      <credits>divingmule, Johnny Cache</credits>
-    </items_info>
-	<item>
-        <title>ASSALTO AO BANCO DA ESPANHA</title>         
-        <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1At6v2z211f_M-soRk-di_3oYE6ILHs5f/view?usp=sharinge</link>,
-	     <thumbnail>https://torrentoon.org/imagens/assalto-ao-banco-da-espanha-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-   <genre>Ação</genre>
-    <info>Um talentoso estudante de engenharia idealiza um plano para invadir um dos bancos mais impenetráveis ​​e perigosos do mundo, durante a final da Copa do Mundo de 2010. Um lendário tesouro perdido será depositado no cofre do banco por apenas 10 dias. Mas ninguém jamais conseguiu invadir o banco, e seu sistema de segurança inclui um rio subterrâneo que inunda a sala de segurança, caso alguém consiga violá-la.</info>
-  <fanart>https://br.web.img2.acsta.net/newsv7/21/04/13/21/25/4576228.jpg</fanart>
-  </item>
-    <item>
-        <title>Mortal Kombat</title>         
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4BD7056F5E32FC76C77B18EFBE332CDED1E562A&dn=Inside.Out.2.2024.720p.CAMRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</link>
-        <thumbnail>https://thepiratefilmeshd.com.br/wp-content/uploads/2021/04/baixar-filmes-thepiratefilmeshd.com_.br_-5-683x1024.jpg</thumbnail>
-	</item>
+<items_info> <!-- this is opitonal -->
+<title>Testing XML</title> <!-- a title is required, other elements are optional -->
+<genre>News</genre>
+<description>this is the descripton string</description>
+<thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+<fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+<date>04.01.2013</date>
+<credits>divingmule, Johnny Cache</credits>
+</items_info>
+<item>
+<title>ASSALTO AO BANCO DA ESPANHA</title>         
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1At6v2z211f_M-soRk-di_3oYE6ILHs5f/view?usp=sharinge</link>,
+<thumbnail>https://torrentoon.org/imagens/assalto-ao-banco-da-espanha-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<genre>Ação</genre>
+<info>Um talentoso estudante de engenharia idealiza um plano para invadir um dos bancos mais impenetráveis ​​e perigosos do mundo, durante a final da Copa do Mundo de 2010. Um lendário tesouro perdido será depositado no cofre do banco por apenas 10 dias. Mas ninguém jamais conseguiu invadir o banco, e seu sistema de segurança inclui um rio subterrâneo que inunda a sala de segurança, caso alguém consiga violá-la.</info>
+<fanart>https://br.web.img2.acsta.net/newsv7/21/04/13/21/25/4576228.jpg</fanart>
+</item>
+<item>
+<title>Mortal Kombat</title>         
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4BD7056F5E32FC76C77B18EFBE332CDED1E562A&dn=Inside.Out.2.2024.720p.CAMRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</link>
+<thumbnail>https://thepiratefilmeshd.com.br/wp-content/uploads/2021/04/baixar-filmes-thepiratefilmeshd.com_.br_-5-683x1024.jpg</thumbnail>
+</item>
 </items>
