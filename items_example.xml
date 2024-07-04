@@ -23,9 +23,7 @@
     
 	<item>
         <title>NHK - World</title>         
-        <link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4BD7056F5E32FC76C77B18EFBE332CDED1E562A&dn=Inside.Out.2.2024.720p.CAMRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online </link>
-	<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4BD7056F5E32FC76C77B18EFBE332CDED1E562A&dn=Inside.Out.2.2024.720p.CAMRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online </link>
-	<link> plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ooo96Bl9ebvpoTgDXe1flpw30sVWrHdy/view?usp=sharing?usp=drivesd</link>
+       	<link> plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ooo96Bl9ebvpoTgDXe1flpw30sVWrHdy/view?usp=sharing?usp=drivesd</link>
         <thumbnail>http://header_logo.gif</thumbnail>
     </item>
 	
