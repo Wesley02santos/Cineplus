@@ -22,7 +22,7 @@
 		<regex>
 			<name>resolver</name>
 			<expres>"stream":.+?"(.*?)"</expres>
-			<page>magnet:?xt=urn:btih:D2EADBC0C83202BE004B8EB4751A1A9B3E7FE702&dn=Kingdom.of.the.Planet.of.the.Apes.2024.1080p.HDCAM.Dublado.V.3.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</page>
+			<page>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2EADBC0C83202BE004B8EB4751A1A9B3E7FE702&dn=Kingdom.of.the.Planet.of.the.Apes.2024.1080p.HDCAM.Dublado.V.3.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</page>
 		</regex>
     </item>	
 	
