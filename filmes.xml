@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <items>
+  
 <items_info> <!-- this is opitonal -->
 <title>Testing XML</title> <!-- a title is required, other elements are optional -->
 <genre>News</genre>
@@ -22,4 +24,5 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4BD7056F5E32FC76C77B18EFBE332CDED1E562A&dn=Inside.Out.2.2024.720p.CAMRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</link>
 <thumbnail>https://thepiratefilmeshd.com.br/wp-content/uploads/2021/04/baixar-filmes-thepiratefilmeshd.com_.br_-5-683x1024.jpg</thumbnail>
 </item>
+  
 </items>
