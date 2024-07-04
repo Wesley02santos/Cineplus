@@ -22,6 +22,13 @@
  <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
  </channel>
  <channel>
+ <name>[COLOR white][B]SERVIDOR 4[/B][/COLOR][COLOR cyan][B] ||| TWO [/B][/COLOR]</name>
+ <thumbnail>https://t2.tudocdn.net/601004</thumbnail>
+ <externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%202.xml</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv créditos iptv-org</info>
+ </channel>
+ <channel>
  <name>[COLOR white][B]SERVIDOR 4[/B][/COLOR][COLOR cyan][B] ||| BR [/B][/COLOR]</name>
  <thumbnail>https://t2.tudocdn.net/601004</thumbnail>
  <externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br.m3u</externallink>
