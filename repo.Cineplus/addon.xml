@@ -24,17 +24,17 @@
 
         <dir minversion="17.0.0" maxversion="18.9.0">
             <!-- Este diretório é para Kodi Leia -->
-            <info compressed="true">https://</info>
-            <checksum>https://</checksum>
-            <datadir zip="true">https://</datadir>
+            <info compressed="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Leia/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Leia/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Leia</datadir>
             <hashes>false</hashes>
         </dir>
 
         <dir minversion="16.0.0" maxversion="17.0.0">
             <!-- Este diretório é para Kodi Krypton -->
-            <info compressed="true">https://</info>
-            <checksum>https://</checksum>
-            <datadir zip="true">https://</datadir>
+            <info compressed="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Krypton/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Krypton/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Krypton</datadir>
             <hashes>false</hashes>
         </dir>
     </extension>
