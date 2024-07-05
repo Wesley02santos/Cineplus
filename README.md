@@ -1,4 +1,5 @@
 # <a href="repo.Cineplus.zip">DOWNLOAD DO REPOSITÓRIO</a>
+# <a href="plugin.video.cineplus.zip">DOWNLOAD DO ADDON</a>
 
 Instruções para a adição no gestor:
 
