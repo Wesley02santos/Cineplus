@@ -22,7 +22,33 @@
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
 	</extension>
+<extension point="xbmc.addon.repository" name="CinePlus Repo">
+	 
 
+        <dir minversion="19.0.0">
+            <!-- Este diretório é para Kodi Matrix+ -->
+            <info compressed="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Matrix/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Matrix/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Matrix</datadir>
+            <hashes>false</hashes>
+        </dir>    
+
+        <dir minversion="17.0.0" maxversion="18.9.0">
+            <!-- Este diretório é para Kodi Leia -->
+            <info compressed="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Leia/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Leia/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Leia</datadir>
+            <hashes>false</hashes>
+        </dir>
+
+        <dir minversion="16.0.0" maxversion="17.0.0">
+            <!-- Este diretório é para Kodi Krypton -->
+            <info compressed="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Krypton/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Krypton/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Krypton</datadir>
+            <hashes>false</hashes>
+        </dir>
+    </extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>[B][COLOR white]CinePlus é um addon de reprodução de link com canais de TV, Filmes, Séries, Desenhos e Animes.[/COLOR]</summary>
 		<description>
@@ -59,6 +85,33 @@
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
+	<extension point="xbmc.addon.repository" name="CinePlus Repo">
+	 
+
+        <dir minversion="19.0.0">
+            <!-- Este diretório é para Kodi Matrix+ -->
+            <info compressed="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Matrix/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Matrix/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Matrix</datadir>
+            <hashes>false</hashes>
+        </dir>    
+
+        <dir minversion="17.0.0" maxversion="18.9.0">
+            <!-- Este diretório é para Kodi Leia -->
+            <info compressed="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Leia/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Leia/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Leia</datadir>
+            <hashes>false</hashes>
+        </dir>
+
+        <dir minversion="16.0.0" maxversion="17.0.0">
+            <!-- Este diretório é para Kodi Krypton -->
+            <info compressed="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Krypton/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Krypton/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Zips/Krypton</datadir>
+            <hashes>false</hashes>
+        </dir>
+    </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">[COLOR white]ADDON [/COLOR][COLOR orange]NEO.TV[/COLOR]</summary>
     <description lang="en">[COLOR lime]ADDON oficial[/COLOR] [COLOR orange]NEO.TV[/COLOR] - Proibido reprodução total ou parcial sem prévia autorização [COLOR white]Addon [/COLOR][COLOR orange]NEO.TV[/COLOR] é de uso gratuito!!</description>
