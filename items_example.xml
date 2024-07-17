@@ -24,7 +24,7 @@
     
 	<item>
         <title>NHK - World</title>         
-       	<link> plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ooo96Bl9ebvpoTgDXe1flpw30sVWrHdy/view?usp=sharing?usp=drivesd</link>
+       <externallink> plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ooo96Bl9ebvpoTgDXe1flpw30sVWrHdy/view?usp=sharing?usp=drivesd</externallink>
         <thumbnail>http://header_logo.gif</thumbnail>
     </item>
 	
