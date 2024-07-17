@@ -7,8 +7,7 @@
         <fanart>https://sucessosa.com.br/uploads/imagens/pacotes-sky-mais-indicados.jpg</fanart>
 		<info>IPTV</info>
 		<externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/IPTV.xml</externallink>
-	    <externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/IPTV.xml</externallink>
-    </channel>
+	       </channel>
 	
 	<channel>
  <name>[COLOR white][B]Listas de Radios[/B][/COLOR]</name>
