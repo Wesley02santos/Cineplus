@@ -12,7 +12,7 @@
 
     <item>
         <title>POKER CHANNEL</title>
-        <link VALUE="1">mms://some/place/pokerchannel</link>
+        <link> xmlns:math = "mms://some/place/pokerchannel" <math:link>Teste 1</math:link></link>
 	    <link>mms://some/place/pokerchannel</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Poker</genre>
