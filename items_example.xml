@@ -12,7 +12,7 @@
 
     <item>
         <title>POKER CHANNEL</title>
-        <link>mms://some/place/pokerchannel</link>
+        <link><name>servidor 1</name> mms://some/place/pokerchannel</link>
 	    <link>mms://some/place/pokerchannel</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Poker</genre>
