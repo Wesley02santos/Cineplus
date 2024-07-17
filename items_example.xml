@@ -12,7 +12,7 @@
 
     <item>
         <title>POKER CHANNEL</title>
-        <link><title>servidor 1</title> mms://some/place/pokerchannel</link>
+        <link VALUE="1">mms://some/place/pokerchannel</link>
 	    <link>mms://some/place/pokerchannel</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Poker</genre>
@@ -24,7 +24,7 @@
     
 	<item>
         <title>NHK - World</title>         
-       <externallink> plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ooo96Bl9ebvpoTgDXe1flpw30sVWrHdy/view?usp=sharing?usp=drivesd</externallink>
+       <link> plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ooo96Bl9ebvpoTgDXe1flpw30sVWrHdy/view?usp=sharing?usp=drivesd</link>
         <thumbnail>http://header_logo.gif</thumbnail>
     </item>
 	
