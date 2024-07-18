@@ -57,19 +57,4 @@
             </subitems>	
             </subchannel>
     </channel>
-    <items>
-        <item>
-        <title>FILM 4</title>
-        <link>mms://some/place</link>
-        <thumbnail>http://thumb.png </thumbnail>
-        </item>
-
-        <item>
-        <title>CHANNEL 4</title>
-        <link>http://some/place/channel_4.mp4</link>
-        <thumbnail>http://thumb.png</thumbnail>
-        </item>
-    </items>	
-    </channel>
-
-</channels>	
+   </channels>	
