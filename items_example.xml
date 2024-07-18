@@ -12,7 +12,7 @@
 	
     <item>
         <title>ANIME</title>
-        <link>http://$doregex[resolver]$doregex[resolver1]</link>
+        <link>http://$doregex[resolver];$doregex[resolver1]</link>
 	    <regex>
 			<name>resolver</name>
 			<expres>"stream":.+?"(.*?)"</expres>
