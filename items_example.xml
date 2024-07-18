@@ -12,7 +12,8 @@
 	
     <item>
         <title>ANIME</title>
-        <link>$doregex[resolver] $doregex[resolver1]</link>
+        <link>$doregex[resolver]</link>
+	     <link>$doregex[resolver1]</link>
 	    <regex>
 			<name>resolver</name>
 			<expres>"(.*?)"</expres>
