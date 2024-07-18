@@ -55,9 +55,8 @@
                 <thumbnail>http://thumb.png</thumbnail>
                 </subitem>
             </subitems>	
-        </channel>
-    </subchannel>
-    
+            </subchannel>
+    </channel>
     <items>
         <item>
         <title>FILM 4</title>
