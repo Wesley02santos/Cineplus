@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title> IPTV.BG.1</title>
-<link>$doregex[makelist]</link>
+<title>Maa TV</title>
+<link>$doregex[clean-m3u8]|Referer=http://www.dittotv.com/js/flowplayerhls.swf</link>
+
 <regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
-<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
-<page>https://raw.githubusercontent.com/mutluerol/iptv.bg/master/iptv.bg.m3u</page>
-<referer>http://wwww.github.com/</referer>
-<x-forward></x-forward>
-<agent>Kodi/18.0</agent>
+	<name>clean-m3u8</name>
+	<expres>$pyFunction:'$doregex[get-m3u8]'.replace('\/','/')</expres>
+	<page></page>
 </regex>
-</item>   
+
+<regex>
+<name>get-m3u8</name>
+<expres>link":"(.*?)"</expres>
+<page>http://www.dittotv.com/index.php?r=live-tv/stream-link&amp;id=10204&amp;rate=5</page>
+</regex>
+</item>
 </items>
