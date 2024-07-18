@@ -16,10 +16,5 @@
 <x-forward></x-forward>
 <agent>Kodi/18.0</agent>
 </regex>
-<regex>
-<name>encodedurl</name>
-<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
-<page></page>
-</regex>
 </item>   
 </items>
