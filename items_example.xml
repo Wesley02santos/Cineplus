@@ -12,7 +12,7 @@
 	
     <item>
         <title>ANIME</title>
-        <link>$doregex[resolver]$doregex[resolver1]</link>
+        <link>$doregex[resolver],$doregex[resolver1]</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Animation</genre>
         <info>Anime teste</info>
