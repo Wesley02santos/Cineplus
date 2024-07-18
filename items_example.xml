@@ -28,7 +28,7 @@
 	    <regex>
 			<name>resolver1</name>
 			<expres>"stream":.+?"(.*?)"</expres>
-			<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fanimesonline.club%2Fanime%2Fyu-gi-oh-sevens%2Fepisodio%2F68825</page>
+			<page>magnet:?xt=urn:btih:E4BD7056F5E32FC76C77B18EFBE332CDED1E562A&dn=Inside.Out.2.2024.720p.CAMRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</page>
 		</regex>
     </item>	
 	
