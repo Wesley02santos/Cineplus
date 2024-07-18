@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<items>
 <item>
 <title> IPTV.TR.1</title>
 <link>$doregex[makelist]</link>
@@ -155,3 +156,4 @@
 <page></page>
 </regex>
 </item>   
+</items>
