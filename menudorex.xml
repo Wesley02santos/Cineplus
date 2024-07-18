@@ -2,9 +2,9 @@
 <items>
 <item>
 <title>Maa TV</title>
-	<name>Servidor1
-<link>$doregex[clean-m3u8] </link></name>
-<name>Servidor2<link>$doregex[get-m3u8]</link></name>
+	
+<link>Servidor1, $doregex[clean-m3u8] </link>
+<link>Servidor2, $doregex[get-m3u8]</link>
 
 <regex>
 	<name>clean-m3u8</name>
