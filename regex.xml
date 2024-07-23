@@ -1,3 +1,4 @@
+<items>
 <item>
 <title>[COLOR lightskyblue]https://freeiptv.io/playlists[/COLOR]</title>
 <link>$doregex[cristal]</link>
@@ -35,3 +36,4 @@ def GetLSProData(page_data,Cookie_Jar,m):#picapau
 <thumbnail></thumbnail>  
 <fanart></fanart>
 </item>
+</items>
