@@ -10,21 +10,21 @@
 	    <item>
                 <title>[COLOR white][B]SERVIDOR 1[/B][/COLOR][COLOR cyan][B] ||| FORMIGA [/B][/COLOR][COLOR yellow][B]TV |||[/B][/COLOR]</title>
 		<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
-                <link>http://tinyurl.com/PVRFORMIGAtv</link>
+                <externallink>http://tinyurl.com/PVRFORMIGAtv</externallink>
                 <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
 		    <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
             </item> 
 		<item>
                 <title>[COLOR white][B]SERVIDOR 2[/B][/COLOR][COLOR cyan][B] ||| FORMIGA [/B][/COLOR][COLOR yellow][B]TV |||[/B][/COLOR]</title>
 		<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
-                <link>http://tinyurl.com/NovaFORMIGAtv</link>
+                <externallink>http://tinyurl.com/NovaFORMIGAtv</externallink>
                 <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
 		    <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
             </item> 
 		<item>
                 <title>[COLOR white][B]SERVIDOR 3[/B][/COLOR][COLOR cyan][B] ||| CINE [/B][/COLOR][COLOR pink][B]+ |||[/B][/COLOR]</title>
 		<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
-                <link>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Canais.txt</link>
+                <externallink>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Canais.txt</externallink>
                 <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
 		    <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
             </item>
