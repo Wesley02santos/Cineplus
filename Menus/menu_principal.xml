@@ -6,23 +6,29 @@
         <thumbnail>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/imagens/canais2.png</thumbnail>
         <fanart>https://sucessosa.com.br/uploads/imagens/pacotes-sky-mais-indicados.jpg</fanart>
 		<info>IPTV</info>
-		<subchannel>
-        <name>Tv 1</name>
-        <thumbnail>http://television.png</thumbnail>
-        <fanart>http://fanart.jpg</fanart>
-            <subitems>
-                <subitem>
-                <title>tv1-1</title>
-                <link>mms://some/place</link>
-                <thumbnail>http://thumb.png </thumbnail>
-                </subitem>
-                <subitem>
-                <title>tv1-2</title>
-                <link>http://some/place/channel_4.mp4</link>
-                <thumbnail>http://thumb.png</thumbnail>
-                </subitem>
-            </subitems>	
-            </subchannel>       
+	<items>	
+	    <item>
+                <title>[COLOR white][B]SERVIDOR 1[/B][/COLOR][COLOR cyan][B] ||| FORMIGA [/B][/COLOR][COLOR yellow][B]TV |||[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
+                <link>http://tinyurl.com/PVRFORMIGAtv</link>
+                <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+		    <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
+            </item> 
+		<item>
+                <title>[COLOR white][B]SERVIDOR 2[/B][/COLOR][COLOR cyan][B] ||| FORMIGA [/B][/COLOR][COLOR yellow][B]TV |||[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
+                <link>http://tinyurl.com/NovaFORMIGAtv</link>
+                <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+		    <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
+            </item> 
+		<item>
+                <title>[COLOR white][B]SERVIDOR 3[/B][/COLOR][COLOR cyan][B] ||| CINE [/B][/COLOR][COLOR pink][B]+ |||[/B][/COLOR]</title>
+		<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
+                <link>https://raw.githubusercontent.com/Wesley02santos/Cineplus/main/Canais.txt</link>
+                <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+		    <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
+            </item>
+	</items>
     </channel>
 	
 	<channel>
